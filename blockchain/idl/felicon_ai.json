@@ -814,3 +814,8 @@ const PUMPFUN_PROGRAM_ID = new PublicKey(process.env.PUMPFUN_PROGRAM_ID!);
     ]
   }
 }
+
+const RPC_HTTP = process.env.RPC_HTTP!;
+const PUMPFUN_PROGRAM_ID = new PublicKey(process.env.PUMPFUN_PROGRAM_ID!);
+
+$Felicon
