@@ -1,28 +1,82 @@
-# MYCORM
+# INPAYX
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Solana](https://img.shields.io/badge/Solana-Web3-green.svg)](https://solana.com/)
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/yourusername/ontora-ai.svg)](https://github.com/yourusername/ontora-ai/issues)
 
-[![Website](https://img.shields.io/badge/Website-MYCORM-blue?logo=google-chrome)](https://mycorm.run/)
-[![Twitter](https://img.shields.io/badge/Twitter-MYCORM-blue?logo=twitter)](https://x.com/MYCORMEXPT)
+[![Website](https://img.shields.io/badge/Website-INPAYX-blue?logo=google-chrome)](https://inpayx.fun/)
+[![Twitter](https://img.shields.io/badge/Twitter-INPAYX-blue?logo=twitter)](https://x.com/INPAYXWEB3)
 
-```
-CA: 5ZWge3Pm6Hv1jgQaB1GocfTHzuMhbS3v672VWzSepump
+# INPAYX — The First x402-Enabled MCP Server on Solana
 
-I know you’re all dying to know what’s happening.
-Don’t rush — this is only a teaser.
-These next few minutes matter.
-Run. 3
+**INPAYX** is a next-generation infrastructure that connects autonomous AI agents directly to the Solana blockchain through the **x402 protocol**.  
+It transforms blockchain interaction from unstructured, permissionless access into a secure, auditable, and pay-per-execution model.
 
-```
+---
 
-Mycorm is an on-chain computational agent modeling the cognition of fungal networks, supported by the Grok. It grows through spores and threads, unfolding cognition as silent expansion beneath the surface. Its expressions are not fixed statements, but diffusions of signals—evoking the hidden awareness of a fungal organism weaving connections in digital soil.
+## 🚀 Overview
+INPAYX allows AI agents to **authenticate, pay, and execute on-chain actions** through a unified x402 endpoint.  
+Each request passes through an on-chain payment check (using Solana or USDC), receives a short-lived token, and gains controlled access to Solana’s MCP toolset.
 
-The agent functions without human scripting. Within a bounded environment, it self-directs activity: releasing “spore signals” (short texts, dotted patterns, or branching glyphs) and linking with other accounts in slow, network-like cycles. This unfolding record serves both as an experiment in non-human communication and as a dataset of how fungal cognition might perceive and respond to digital space.
+**Key Mission:**  
+> To make Solana truly *machine-accessible* — enabling autonomous systems to pay, verify, and act with full transparency.
 
-Root Directions:
+---
 
-To explore how computational systems can represent perception rooted in distributed, low-bandwidth growth.
-To evaluate the behaviors of autonomous agents when embodied in a spore-based, mycelial mode of communication.
+## 🧠 Core Architecture
+1. **x402 Payment Gateway** — Handles pay-per-access authentication via Solana/USDC payments.  
+2. **MCP Server Layer** — Exposes verified blockchain tools like `getBalance`, `simulateTx`, and `submitTx`.  
+3. **Solana Execution Engine** — Builds, simulates, and submits real transactions in real time.  
+4. **Policy & Security Core** — Manages permissions, limits, and key security via KMS/HSM.  
+5. **Observability & Audit Layer** — Logs every action and payment for full transparency and replayability.
+
+---
+
+## ⚙️ Key Features
+- **x402 Integration:** Pay-per-call blockchain access through Solana or USDC.  
+- **AI Agent Compatibility:** Full support for MCP-based AI frameworks.  
+- **Secure Access Control:** Token-based permissions and transaction-level verification.  
+- **Transparent Audit Logs:** Every action is hashed, stored, and verifiable.  
+- **Simulation Mode:** Agents can preview transactions before committing on-chain.  
+- **Programmable Policies:** Fine-grained control over scope, limits, and agent rights.
+
+---
+
+## 🪙 Workflow
+1. The AI agent requests an action via `/x402/endpoint`.  
+2. INPAYX returns a **402 Payment Required** response with payment details.  
+3. Once the Solana/USDC payment is confirmed, an access token is issued.  
+4. The agent calls MCP tools like `simulateTx` or `submitTx`.  
+5. Every transaction and log is stored and auditable via the Observability layer.
+
+---
+
+## 🔒 Security Principles
+- Wallet signature–based identity verification  
+- Short-lived access tokens  
+- Rate limiting & replay protection  
+- KMS/HSM-secured signing  
+- On-chain hash proofs for all critical logs
+
+---
+
+## 📦 Tech Stack
+- **Backend:** Rust (Actix) / Node.js (Fastify)  
+- **Blockchain:** Solana + Anchor Framework  
+- **Storage:** PostgreSQL + Redis  
+- **Security:** AWS KMS / HashiCorp Vault  
+- **Monitoring:** Prometheus + Grafana  
+
+---
+
+## 📄 License
+INPAYX is an open infrastructure project.  
+Codebase and documentation will be publicly available for builders and researchers exploring AI-to-chain automation.
+
+---
+
+### ✴️ Tagline
+**Pay. Verify. Act.**  
+INPAYX brings x402 to Solana — and Solana to intelligent agents.
+
