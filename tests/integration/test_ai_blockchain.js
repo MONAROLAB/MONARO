@@ -92,6 +92,14 @@ describe('AI Predictions On-Chain Integration Tests for Ontora AI', () => {
       data: predictionData
     });
 
+    def test_predict_model_trained(self):
+        self.model.train(self.mock_data, self.mock_labels)
+        predictions = self.model.predict(self.mock_data)
+        self.assertEqual(len(predictions), len(self.mock_data))
+        self.assertTrue(all(pred == 0.5 for pred in predictions))
+    ）}
+    
+
     // Step 4: Send and confirm transaction
     const txId = await sendAndConfirmTransaction(connection, transaction, [userKeypair]);
 
