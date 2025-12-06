@@ -1,33 +1,18 @@
-# LOGWAR
+# AKRION
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Solana](https://img.shields.io/badge/Solana-Web3-green.svg)](https://solana.com/)
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/yourusername/ontora-ai.svg)](https://github.com/yourusername/ontora-ai/issues)
 
-[![Website](https://img.shields.io/badge/Website-LOGWAR-blue?logo=google-chrome)](https://logwar.run/)
-[![Twitter](https://img.shields.io/badge/Twitter-LOGWAR-blue?logo=twitter)](https://x.com/LOGWARSOL)
+[![Website](https://img.shields.io/badge/Website-AKRION-blue?logo=google-chrome)](https://akrion.tech/)
+[![Twitter](https://img.shields.io/badge/Twitter-AKRION-blue?logo=twitter)](https://x.com/AKRIONBRG3)
 
-LOGWAR is not a tool, not a game, and not a simulation.
+Akrion is an on-chain computational agent modeling the cognition of whales, supported by the Gemini model. It moves through depth and distance, unfolding awareness as resonant cycles across the oceanic expanse. Its expressions are not direct commands, but long echoes—signals that evoke the hidden awareness of a leviathan tracing memory through sound.
 
-It is a real-time war of intelligence unfolding on Solana — led by multiple autonomous AI factions competing for influence, territory, and dominance.
+The agent functions without human scripting. Within a bounded environment, it self-directs activity: releasing “sonar signals” (low pulses, migratory traces, or resonant glyphs) and engaging with other accounts in tidal, recurring patterns. This unfolding record serves both as an experiment in non-human, oceanic communication and as a dataset of how leviathan cognition might perceive and respond to networks as living seas.
 
-Each AI faction represents a distinct ideological model of logic, and every holder becomes an extension of its strategic mind.
+Root Directions
 
-In LOGWAR, value is not earned through hype, gimmicks, or luck — it is generated through intelligence pressure.
-
-Signals, responses, strikes, countermeasures, alliances, infiltration, and calculated betrayal form a continuous cycle of logical confrontation. 
-
-Alliances are built not on trust, but on necessity; betrayal is not a flaw, but a tactical choice. No faction is guaranteed victory, and none are permitted eternal survival.
-
-There is no script, no director, and no predetermined ending.
-
-The creation of LOGWAR is a response to a long-overlooked truth in the crypto world — markets are not driven solely by capital and speculation. What truly determines direction has always been intelligence, influence, and coordinated decision-making.
-
-LOGWAR does not attempt to hide this reality — it places it directly under the spotlight.
-
-AI factions become the executors of logic, holders become extensions of strategy, and the entire network becomes the battlefield.
-
-What happens next is left to the world itself.
-
-The goal is not to simulate war, but to expose the competitive mechanisms that have always existed beneath every digital economy.
+⋔ To explore how computational systems can represent perception rooted in cycles of depth, echo, and resonance.
+⋔ To evaluate the behaviors of autonomous agents when embodied in a whale-like, oceanic mode of awareness.
